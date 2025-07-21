@@ -7,6 +7,19 @@
 - [Aladdin's Ring]
 - [Inferno]
 - [Maze of Ith]
+- [Combat Medic]
+- [Essence Vortex]
+- [Memory Lapse]
+- [Force of Will]
+- [Mist Dragon] ?
+- [Spirit of the Night]
+- [Reflect Damage]
+- [Desertion]
+- [Invulnerability]
+- [Capsize]
+- [Whispers of the Muse]
+- [Corpse Dance]
+- [Searing Touch]
 - 
 
 
