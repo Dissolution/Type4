@@ -64,9 +64,33 @@
 - [Searing Touch] ➕The Bad Touch, no one ever cares to counter it until after it has done devious things.
 - [Verdant Force] - Has been since eclipsed.
 ## Stronghold (STH)
+- [Dream Halls] - Is hilarious and someone always has the nuts and just wins.
+- [Evacuation] - In a draft stack this sort of effect is solid, but so many creatures have etb effects now that it becomes a liability.
+- [Mind Games] - Never tried in a previous stack, this is an interesting effect, but plausibly too annoying.
+- [Lab Rats] - See [Sprout Swarm] 
+## Exodus (EXO)
+- [Allay] - This and [Shattering Pulse] contribute to bad game states. Destroy effects need to be one-shots.
+- [Ertai, Wizard Adept] - In the original stack, this creature is too small and the effect too slow to still include.
+- [Forbid] ➕ Here we go! The downside is just enough that this doesn't become oppressive.
+- [Hatred] - Extremely risk/reward, this usually involved killing at least one player or the caster getting it countered and then beat. I can see this in some stacks.
+- [Necrologia] - Risk/Reward again, and the tricky timing.
+- [Slaughter] - Laughter aside, I've included and removed this card a few times. Repeatable creature kill is annoying, but the 4 life and non-black clauses limit the damage. In the end, there are more interesting kill spells.
+- [Survival of the Fittest] ▶ So very insanely good in draft stack!
+## Unglued (UGL)
+- Of course I would include UN-cards in my stack.
+- [Infernal Spawn of Evil] - It is coming...
+## Urza's Saga (USG)
+- `Cycling` shows up here, an ability that adds value to any card in the stack.
+- [Humble] - itself power crept out, the effect saw play in a prior stack in [Snakeform]
+- [Morphling] - in a prior stack, a `5/♾, flying, vigilance, shroud` was a pretty great creature, but having to deal with the abilities and general stats, this has been outclassed.
+- [Sneak Attack] ➕If this is not instantly countered, it might be a player's death. Or maybe not, this card slips in based up on being iconic.
+- [Abundance] - lets you draw the lands in the deck.
+- [Fluctuator] - I love this card. That's all.
+- [Phyrexian Processor] - In a previous stack, outclassed.
+- [Temporal Aperture] ➕ Random free spell. I love random.
 - 
 
 
 
 # 🔖Last Page 🔗
-- https://scryfall.com/search?as=grid&order=name&page=46&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=60&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards

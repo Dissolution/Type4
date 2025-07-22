@@ -20,6 +20,9 @@
 - [Whispers of the Muse]
 - [Corpse Dance]
 - [Searing Touch]
+- [Forbid]
+- [Sneak Attack]
+- [Temporal Aperture] ?
 - 
 
 
