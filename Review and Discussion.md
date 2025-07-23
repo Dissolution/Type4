@@ -88,9 +88,40 @@
 - [Fluctuator] - I love this card. That's all.
 - [Phyrexian Processor] - In a previous stack, outclassed.
 - [Temporal Aperture] ➕ Random free spell. I love random.
+## Urza's Legacy (ULG)
+- [Opportunity] ➕This is the only instant speed, targeted, draw 4+ card every printed, truly amazing in the stack.
+- [Tinker] - This seems playable in draft stack, but there are more powerful cards that can put into play without needing an existing artifact.
+- [Defense of the Heart] - Playable in draft stack, this feels like it might be too difficult to trigger and it has to stick around.
+- [Multani, Maro-Sorcerer] ➕Makes the first cut, a massive (but variable) body with shroud is still efficient.
+- [Quicksilver Amulet] - There are many variations of this effect, [Sneak Attack] lets you put in many creatures with haste, but they die at end of turn. [Timmy, Power Gamer] lets you put any number into play at once. I think there is a limited amount of room for this effect.
+## Portal Three Kingdoms (PTK)
+- [Overwhelming Forces] ➕It only hits one player, but being able to devastate a player with a dozen saprolings while drawing that many cards is worth a sorcery.
+## Urza's Destiny (UDS)
+- [Academy Rector] - If a creature has a particularly nasty dies/leaves trigger, it needs to be large enough that killing it is an actual decision.
+- [Masticore] - This and other `*core` creatures, while interesting in their effects, are harshly evaluated and most people don't like playing with them.
+## Mercadian Masques (MMQ)
+- [Bribery] ▶ Insane include in draft stack.
+- [Misdirection] ➕ Another free counterspell (you can often redirect the original spell to point to Misdirection)
+- [Forced March] - Used to be in the stack, the ability to ignore certain creatures was useful, but there are more interesting sweepers now.
+- [Thieves' Auction] - I love bidding/random/chaotic effects for the stack, they can lead to some great memories. This card is very, very swingy, but the caster does get first choice.
+- [Panacea] - Would you believe there was a time when this card made the stack?
+## Nemesis (NEM)
+- [Dominate] ➕While [Blue Sun's Twilight] has an additional effect, this is an instant!
+## Prophecy (PCY)
+- [Plague Wind] - Sadly surpassed by [In Garruk's Wake]
+- [Searing Wind] ➕This is what burn looks like. 10 damage, any target, instant.
+- [Vitalizing Wind] - Deserves a mention for what is both overpowered and very weak at the same time.
+## Invasion (INV)
+- Every ability is just `kicker`.
+- [Dismantling Blow] ➕A long favorite absolutely returns.
+- [Reya Dawnbringer] - Reanimation each upkeep will be revisited in scarier form [Sheoldred, Whispering One]
+- [Rout] - Also revisited with [Fated Retribution] and/or [Final Showdown]
+- [Empress Galina] - Was so very good in the first iteration of the stack. Now? Laughable. How power has crept.
+- [Fact or Fiction] ➕EOTFOFYL
+- [Agonizing Demise] ➕Fun removal and looks great in foil!
 - 
 
 
 
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=60&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=80&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards

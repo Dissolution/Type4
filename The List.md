@@ -23,6 +23,14 @@
 - [Forbid]
 - [Sneak Attack]
 - [Temporal Aperture] ?
+- [Opportunity]
+- [Multani, Maro-Sorcerer]
+- [Overwhelming Forces]
+- [Misdirection]
+- [Dominate]
+- [Searing Wind]
+- [Fact or Fiction]
+- [Agonizing Demise]
 - 
 
 
