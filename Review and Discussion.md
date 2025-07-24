@@ -119,9 +119,43 @@
 - [Empress Galina] - Was so very good in the first iteration of the stack. Now? Laughable. How power has crept.
 - [Fact or Fiction] ➕EOTFOFYL
 - [Agonizing Demise] ➕Fun removal and looks great in foil!
+- [Yawgmoth's Agenda] ➕Zero downside, lets you use your entire graveyard as as second hand, this is iconic for Type 4.
+- [Mages' Contest] ➕ Finally, a bidding card makes it in. Instant sped and head games!
+- [Obliterate] ➕ Has been in every previous incarnation of the stack. Uncounterability and hitting lands pushes this into the first draft.
+- [Urza's Rage] ➕10 uncounterable, unpreventable damage to any target is 🔥.
+- [Restock] - Used to be a solid inclusion, has been surpassed.
+- [Thicket Elemental] ➕Has always made the stack. A 4/4 is pathetic, but the uncounterable unknown other creature is fun chaos.
+- [Absorb] + [Undermine] - used to be among the best counterspells; now they barely rate a mention compared to [Punish Ignorance].
+- [Armored Guardian] - On the fence about this on, there are some tricky instances about the order of granting protection and the constant 'every time I have priority, all creatures gain protection' spiel.
+- [Artifact Mutation] + [Aura Mutation] - Also on the fence. Single shot, create potentially a bunch of tokens. 👁
+- [Cauldron Dance] ➕Tricky timing aside, this is a crazy card, especially now that so many creatures have etb abilities.
+- [Recoil] - Great artist. The card is a fairly unique effect, being instant and able to hit lands. Unsure if it has enough power. 👁
+- [Reviving Vapors] - This was a solid inclusion, but at +0 card advantage and just some life gain, this is iffy. 👁
+- [Spinal Embrace] ➕This is just the right type of threaten effect, and its not even red!
+- [Tsabo Tavoc] - I built my first stack from a pile of bulk rares l had laying around. I distinctly remember this card doing serious work. Back in the day...
+- [Planar Portal] ▶ Tap, [Demonic Tutor]? Yes please.
+## Planeshift (PLS)
+- [Orim's Chant] - Don't do this. Yes, upkeep [Time Stop] is funny, but that card has many other clever uses. This only exists to deny a player a turn.
+- [Crosis's Charm] ➕ There are very few 3-mode charms where every mode is decent in Type 4, this is one of them.
+- [Eladamri's Call] ▶ Yes, I will eot fetch [Teferi, Mage of Zhalfir] and then win the game, thanks!
+## Apocalypse (APC)
+- [Bloodfire Colossus] ➕If [Inferno] is good, then the same thing as a creature is better!
+- [Captain's Maneuver] ➕No, _you_ die.
+- [Mystic Snake] - Mistake snake! 🐍 I love this card, it has been outclassed. 😢
+- [Prophetic Bolt] ➕Damage and slight card advantage, slips in.
+- [Legacy Weapon] ➕ Sometimes, you need to exile the world colorlessly. Just don't forget to exile this with its own ability before it goes.
+## Odyssey (ODY)
+- [Ray of Distortion] - While this sits in the graveyard, no one casts artifacts nor enchantments.
+- [Fervent Denial] ➕This, however, sits in the graveyard and someone has to eat the bullet, leading to great politics.
+- [Shifty Doppelganger] - Funny how, in all my years of playing and looking, I never once noticed this card for the stack. 👁
+- [Time Stretch] ➕Two extra turns is our minimum, and this is targeted, which leads to fun!
+- [Mindslicer] - Not anymore. This was always unfun.
+- [Skeletal Scrying] - In the late game, this exceeds the limit of how good card draw can be.
+- [Molten Influnce] - This is an earlier incarnation of [Dash Hopes]. 4 damage isn't enough.
 - 
 
 
 
+
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=80&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=92&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards

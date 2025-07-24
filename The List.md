@@ -31,6 +31,20 @@
 - [Searing Wind]
 - [Fact or Fiction]
 - [Agonizing Demise]
+- [Yawgmoth's Agenda]
+- [Mages' Contest]
+- [Obliterate]
+- [Urza's Rage]
+- [Thicket Elemental]
+- [Cauldron Dance]
+- [Spinal Embrace]
+- [Crosis's Charm]
+- [Bloodfire Colossus]
+- [Captain's Maneuver]
+- [Prophetic Bolt]
+- [Legacy Weapon]
+- [Fervent Denial]
+- [Time Stretch]
 - 
 
 
