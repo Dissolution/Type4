@@ -45,6 +45,22 @@
 - [Legacy Weapon]
 - [Fervent Denial]
 - [Time Stretch]
+- [Holistic Wisdom]
+- [Mirari]
+- [Chainer, Dementia Master]
+- [Radiate]
+- [Glory]
+- [Spelljack]
+- [Crush of Wurms]
+- [Voidmage Prodigy]
+- [Insurrection]
+- [Kaboom!]
+- [Akroma, Angel of Wrath]
+- [Chromeshell Crab]
+- [Voidmage Apprentice]
+- [Willbender]
+- [Bane of the Living]
+- [Skinthinner]
 - 
 
 

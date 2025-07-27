@@ -151,11 +151,49 @@
 - [Time Stretch] ➕Two extra turns is our minimum, and this is targeted, which leads to fun!
 - [Mindslicer] - Not anymore. This was always unfun.
 - [Skeletal Scrying] - In the late game, this exceeds the limit of how good card draw can be.
-- [Molten Influnce] - This is an earlier incarnation of [Dash Hopes]. 4 damage isn't enough.
-- 
-
+- [Molten Influence] - This is an earlier incarnation of [Dash Hopes]. 4 damage isn't enough.
+- [Holistic Wisdom] ➕This card seems weak on first glance, but it is a massive engine in the later game.
+- [Iridescent Angel] - Used to be a solid creature in the stack, but with the creature 'creep that has been going on, this is only worth the mention.
+- [Mirari] ➕ A reason to tap out, being able to copy all future instants and sorceries is worth the risk.
+## Torment (TOR)
+- [Plagiarize] - A similar effect exists in [Hullbreacher] and [Notion Thief], both of which effect all opponents.
+- [Chainer, Dementia Master] ➕Restricted reanimation, no haste (so it doesn't insta-kill), and if it dies everything gets exiled, preventing re-abuse.
+- [Hypnox] - This was in several early versions of the stack. There are some tricks you can play with the triggers, but it still falls into the category of unfun.
+- [Overmaster] - Oh, how I wish this effect worked in the stack. I have seen some variant stacks that errata this type of effect to not cost your spell per turn, but I don't want to go down that route in this rebuild.
+- [Radiate] ➕Yes, pure chaos!
+## Judgment (JUD)
+- [Glory] ➕ Against my initial judgement (hehe), I'm going to keep this card in. A 3/3 flyer is not a threat, but once it is in the graveyard it is a nightmare and a dream.
+- [Grip of Amnesia] - I've gone back and forth on this card many times. It is not a consistent counter, nor consistent grave hate, but it does replace itself and the foil is nice looking. Didn't make it.
+- [Spelljack] ➕ 🌟, S-tier counterspell.
+- [Ember Shot] - This was the best version of this effect for a long while. Now we get insanity like [Jeskai Revelation].
+- [Crush of Wurms] ➕ 🪱🪱🪱
+- [Genesis] - Used to be A-tier. 🪦, indeed.
+## Onslaught (ONS)
+- `Morph` - A huge subtheme of almost every previous stack has been morph, to the point that I ran [Scornful Egoist] and people would rate it highly in draft. 
+- [Akroma's Vengeance] - This effect has been surpassed, even `cycling` cannot save it.
+- [Crowd Favorites] - Infinite toughness, politics games with people promising to attack someone else if you let their creature stay untapped, then attacking you. I love this creature and I hope it can find space. 👁
+- [Exalted Angel] - The **OG**, all the morph creatures in the stack need to have more of an immediate impact than a 4/4 flying lifelink.
+- [Glarecaster] ➕ Makes the first cut, this leads to very interesting board states.
+- [Arcanis the Omnipotent] - My boy has been replaced by, of all things, [Loot, the Pathfinder]. Arcy having to survive a full round meant he never lived up to his promise.
+- [Blatant Thievery] - Time has come and gone.
+- [Voidmage Prodigy] ➕ There are a lot of wizards in the stack, so this becomes a huge blowout.
+- [False Cure] is cute and tempting.
+- [Undead Gladiator] - Juice isn't worth the squeeze.
+- [Erratic Explosion] - Wait for it...
+- [Insurrection] ➕ Here we go! This might win the game, but someone has to.
+- [Kaboom!] ➕... and here it is. This hits every other player, every planeswalker (that you want), and random each time. Spin the wheel!
+- [Starstorm] - See [Akroma's Vengeance]
+## Legions (LGN)
+- [Akroma, Angel of Wrath] ➕Never outclassed, the queen bitch is awesome.
+- [Chromeshell Crab] ➕Mine!
+- [Voidmage Apprentice] ➕Learns a lot from their master.
+- [Willbender] ➕Yet another surprise!
+- [Bane of the Living] ➕Surprise, everything is dead++!
+- [Phage the Untouchable] - Finally outclassed by [Summon: Primal Odin].
+- [Skinthinner] ➕Part of the `morph` support.
+- [Krosan Cloudscraper] - ...
 
 
 
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=92&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=107&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
