@@ -61,7 +61,23 @@
 - [Willbender]
 - [Bane of the Living]
 - [Skinthinner]
+- [Decree of Silence]
+- [Decree of Pain]
+- [Root Elemental]
+- [Promise of Power]
+- [Grab the Reins]
+- [Mind's Eye]
+- [Mindslaver]
+- [Oblivion Stone]
+- [Soul Foundry]
+- [Tower of Fortunes]
+- [Last Word]
+- [Pulse of the Grid]
+- [Darksteel Colossus]
+- [Memnarch]
+- [Panoptic Mirror]
 - 
+
 
 
 

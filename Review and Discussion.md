@@ -191,9 +191,49 @@
 - [Bane of the Living] ➕Surprise, everything is dead++!
 - [Phage the Untouchable] - Finally outclassed by [Summon: Primal Odin].
 - [Skinthinner] ➕Part of the `morph` support.
-- [Krosan Cloudscraper] - ...
+- [Krosan Cloudscraper] - This highly depends on the `morph` support in the rest of the stack, as a 13/13 'vanilla', this is pathetic. 👁
+- [Nantuko Vigilante] - Just like the above, this highly depends on `morph` support. 👁
+## Scourge (SCG)
+- Type 4 is the only format where `Storm` is a bad keyword.
+- [Decree of Silence] ➕A free counterspell that draws a card! ⭐
+- [Mischievous Quanar] - Was in an earlier build until we realized this let you copy a spell infinite times.
+- [Rush of Knowledge] - Once okay, now too weak + conditional.
+- [Scornful Egotist] - With enough `morph` support, this is a hilarious lightning rod. 👁
+- [Decree of Pain] ➕Both modes are spicy!
+- [Unspeakable Symbol] - Good rate, no one would want to play it.
+- [Decree of Annihilation] - If this didn't exile hands it might be considered, but the cycle ability barely effects Type 4.
+- [Graip of Chaos] - Haha, no.
+- [Decree of Savagery] - As usual, the green one sucks.
+- [Hunting Pack] - The one possible exception to the storm rule, you can usually piggyback to get 3 4/4s at instant speed. But is that enough?
+- [Root Elemental] ➕ Morph support aside, a free creature at sub-instant speed is a great effect.
+# Mirrodin (MRD)
+- Suddenly, the borders suck.
+- [Quicksilver Elemental] - Used to be run, but it was too conditional.
+- [Promise of Power] ➕Draw 5, lose 5, get a 5+/5+ flying creature, this card has been in the stack and continues to find a great place.
+- [Grab the Reins] ➕Most of this time this is instant, destroy target creature, deal damage equal to its power to any target. And I'm okay with that.
+- [Tooth and Nail] ▶ Insta-include in draft stack.
+- [Bosh, Iron Golem] - Conditional on numbers of artifacts and desire to fling them. A 6/7 trample that can throw 8 to a target isn't terrible.
+- [Lightning Greaves] - I want to include some equipment, but [Swiftfoot Boots] exists.
+- [Mind's Eye] ➕Crazy card advantage!
+- [Mindslaver] ➕I absolutely love 'control target player' effects in Type 4.
+- [Oblivion Stone] ➕ Yes.
+- [Platinum Angel] - Going to miss her, surpassed _hard_ by [Herald of Eternal Dawn]
+- [Sculpting Steel] - In ages past this was okay, but anything that copies now must be able to copy any permanent. 
+- [Soul Foundry] ➕This effect is just fun.
+- [Tower of Fortunes] ➕Aw shit!
+## Darksteel (DST)
+- [Pulse of the Fields] - All the Pulse's deserve mention, but this one is just catch-up that prolongs the game.
+- [Last Word] ➕Always!
+- [Pulse of the Grid] ➕Spicy!
+- [Pulse of the Forge] - Tested as just too weak.
+- [Shunt] - A sign of beautiful things to come. These sort of effects is why I mention targeted and non-targeted.
+- [Darksteel Colossus] ➕Big Daddy himself sneaks into the first iteration, but his time is limited.
+- [Memnarch] ➕ Gain control of all targetable permanents. 
+- [Panoptic Mirror] ➕ Barely makes it in because [Soul Foundry] did, but this is slower. Tip: wait until the opponent before you's endstep to use the imprint.
+- [Sword of X and Y] - Equipment must grant haste or have flash to be viable.
+- 
 
 
 
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=107&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=117&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
