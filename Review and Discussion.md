@@ -231,9 +231,30 @@
 - [Memnarch] ➕ Gain control of all targetable permanents. 
 - [Panoptic Mirror] ➕ Barely makes it in because [Soul Foundry] did, but this is slower. Tip: wait until the opponent before you's endstep to use the imprint.
 - [Sword of X and Y] - Equipment must grant haste or have flash to be viable.
+## Fifth Dawn (5DN)
+- [Beacon of Immortality] - I have always loved the beacon cycle. This one might be worth considering, but lifegain can drag games out.
+- [Acquire] ▶ [Bribery]'s cousin.
+- [Hoverguard Sweepers] - I loved this card, now it's not big enough and bounce is mostly a liability.
+- [Beacon of Unrest] ➕ Oh yes, there are artifacts in the stack!
+- Bringers - At one time, almost all of these were playable.
+- [Reversal of Fortune] - 👀replaced with creature [Mindclaw Shaman]
+- [All Suns' Dawn] ➕Return up to 5 cards is great rate and leads to interesting decisions.
+- [Door to Nothingness] ➕Sex doesn't even compare.
+- [Vedalken Orrery] ➕This effect is arguably the most powerful in the entire stack.
+## Champions of Kamigawa (CHK)
+- [Eight-and-a-Half-Tails] ➕Stack tricks galore!
+- [Time Stop] ➕I know that there are others, and they are likely in the stack as well.
+- [Kokusho, the Evening Star] ➕So many things to say. Kills multiple players, can often get into stack wars, great killer.
+- [Night Dealings] ▶ This seems insane in draft stack, need to try it.
+- [Kiki-Jiki, Mirror Breaker] ➕ So many degenerate plays, kill on sight.
+- [Soulblast] - This was in a previous stack, but it was too conditional.
+- [Through the Breach] - Limited compared to other options.
+- [Boseiju, Who Shelters All] - Has been surpassed.
+- [Hall of the Bandit Lord] - Has been surpassed.
+## Unhinged (UNH)
 - 
 
 
 
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=117&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=124&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
