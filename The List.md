@@ -84,6 +84,16 @@
 - [Time Stop]
 - [Kokusho, the Evening Star]
 - [Kiki-Jiki, Mirror Breaker]
+- [Booster Tutor]
+- [Gleemax]
+- [Shining Shoal]
+- [Disrupting Shoal]
+- [Ink-Eyes, Servant of Oni]
+- [Sickening Shoal]
+- [Murmurs from Beyond]
+- [Moonlight Bargain]
+- [Plague Boiler]
+- [Leyline of Singularity]
 - 
 
 

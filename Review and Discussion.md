@@ -252,9 +252,50 @@
 - [Boseiju, Who Shelters All] - Has been surpassed.
 - [Hall of the Bandit Lord] - Has been surpassed.
 ## Unhinged (UNH)
+- I used to run several of the `Gotcha` cycle, but with the new stack I spent some time reflecting. We had to verbally errata these to account for teaming up against a particular player -- that alone disqualifies them.
+- [Cheatyface] - I wish this was better than a 2/2 flyer, I'd run it instantly. This is the chaos I love.
+- [Richard Garfield, Ph.D.] - I had a discussion about this card.
+- [Booster Tutor] ➕The soft errata for this is to grab 15 cards from the stack that aren't being used and let them choose one.
+- [Infernal Spawn of Infernal Spawn of Evil] - Still coming!
+- [Blast from the Past] - Played properly, you cycle this card and then pay the madness cost. When you cast BftP for madness, you pay the kicker and buyback costs. (Every ability gets used except flashback). This results in [Shock] + 1/1 Goblin + Draw, at instant speed. This is all the best buyback spells together and then some, so this ended up being too powerful (and confusing for anyone who doesn't know exactly how to play it).
+- [Granny's Payback] - As I become an old man, I appreciate this card more and more. But it is just sorcery lifegain.
+- [Gleemax] ➕This isn't as impossible to deal with as you'd think. But still deviously fun.
+## Betrayers of Kamigawa (BOK)
+- [Shining Shoal] ➕Free! Doesn't target source. Solid surprise.
+- [Disrupting Shoal] ➕Free. Counter. Spell.
+- [Ink-Eyes, Servant of Oni] ➕ Who doesn't love a sexy rat?
+- [Sickening Shoal] ➕Free! Can kill indestructible creatures.
+## Saviors of Kamigawa (SOK)
+- [Meishin, the Mind Cage] - This was in the first few iterations of the stack. How times have changed.
+- [Murmurs from Beyond] ➕Decision-based draw that involves an opponent is _exactly_ the card advantage the stack wants.
+- [Overwhelming Intellect] ➕Limited to creatures only, this often draws 6+ cards.
+- [Twincast] - Like [Shunt], this is a sign of greater cards to come.
+- [Gaze of Adamaro] -> [Runeflare Trap] (w/Trap Rule)
+- [Hidetsugu's Second Rite] - For a very long time there has been a `10-damage` theme in the stack. Even with that, this card has very rarely every killed anyone. Not worth it anymore, sadly.
+## Ravnica: City of Guilds (RAV)
+- [Blazing Archon] - Blaze forever friend, your effect doesn't stop enough shenanigans.
+- [Muddle the Mixture] ▶ Transmute limits these effects to draft.
+- [Moonlight Bargain] ➕2 life per card is a reasonable rate, but this is also an instant and the rejected cards go to your graveyard.
+- [Reroute] - This struggled sometimes with finding a target, and [Return the Favor] existing sadly shuts this one out.
+- [Chord of Calling] ▶ Oh yes, yes, instant speed, shenanigans with convoke, yes.
+- [Autochthon Wurm] - I stopped running french vanilla creatures, no matter how large.
+- [Clutch of the Undercity] ▶ Transmute, bounce and lifeloss is fine.
+- [Dimir Doppelganger] - This unbound effect never felt good to play.
+- [Fireman Angel] - Not having haste really hurts this creature, no matter how much it can come back. Time has come for it to not return.
+- [Perplex] ▶ I love love love this card so much, but transmute forces it into draft-only.
+- [Razia, Boros Archangel] -> [Valomachus Lorehold]
+- [Sisters of Stone Death] - This card has been in the stack since I got one. In a perfect world, it provokes and steals a creature each turn. In practice, it has to survive to be able to attack, and thus, never impressed.
+- [Privileged Position] - I feel that it has been surpassed by [Restricted Office].
+- [Plague Boiler] ➕Instant speed destroy all nonland perms, similar to [Oblivion Stone]
+- [Sunhome, Fortress of the Legion] - This can make a creature hit really hard. That's it -- and that's too limited.
+## Guildpact (GPT)
+- [Storm Herd] - This is a decent card for consideration, but I want 13 2/2 zombies instead.
+- [Leyline of Singularity] ➕⭐I have played enough T4 that I've put this into play T0 _twice_. I won both games, as has anyone else pulling off the feat.
+- [Parallectric Feedback] - This card has been so amazing, I'm glad it finally has been improved further with [Refuse]
+- [Cerebral Vortex] - Not worth it.
 - 
 
 
 
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=124&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=139&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
