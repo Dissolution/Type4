@@ -293,9 +293,35 @@
 - [Leyline of Singularity] ➕⭐I have played enough T4 that I've put this into play T0 _twice_. I won both games, as has anyone else pulling off the feat.
 - [Parallectric Feedback] - This card has been so amazing, I'm glad it finally has been improved further with [Refuse]
 - [Cerebral Vortex] - Not worth it.
+- [Niv-Mizzet, the Firemind] - Not nearly powerful enough compared to later iterations of the same character.
+## Dissension (DIS)
+- [Tidespout Tyrant] -> [Hullbreaker Horror]
+- [Simic Sky Swallower] ➕ Oddly still unmatched for what it is. In on first round. 👀
+- [Swift Silence] ➕When this pops off it is _sick._
+- [Voidslime] ➕[Deny the Witch] isn't necessarily better, [Disallow] is just one color, and [Sublime Epiphany] is in the stack. I'm okay with another of these, but only just. 👀
+- [Azorius Guildmage] ➕May I please, mommy? 🙏
+- [Crime] - `or less` is all that would have made this card playable.
+- [Hit] is sooo good; [Run] is not.
+- [Odds] is great; [Ends] is mediocre.
+- [Prahv, Spires of Order] ➕Cool land that does not target anything.
+## Coldsnap (CSP)
+- [Commandeer] ➕Free counterspell, granted at a much more expensive cost but better result.
+- [Controvert] - Previously in the stack, it was hard to remember `Recover` and remembering it is annoyingly important. (Same applies to [Grim Harvest])
+- [Dark Depths] ➕Clever players can deal with this, everyone else dies.
+## Time Spiral (TSP)
+- `Split Second` is one of my favorite mechanics for the stack, and `buyback` + `morph` returns!
+- [Angel's Grace] ➕**NO**
+- [Draining Whelk] ➕Scary how big this can get.
+- [Mystical Teachings] ▶ Just get [Teferi, Mage of Zhalfir].
+- [Spell Burst] ➕⭐Degenerate.
+- [Teferi, Mage of Zhalfir] ➕Strong contender for best non-Eldrazi creature in the stack, he is a massive target.
+- [Trickbind] ➕Makes it in on the first pass due to `split second` 👀
+- [Vesuvan Shapeshifter] ➕Morph + copy shenanigans.
+- [Wipe Away] ➕Makes it in on the first pass due to `split second` 👀
+- [Demonic Collusion] ▶ Sick!
 - 
 
 
 
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=139&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=147&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards

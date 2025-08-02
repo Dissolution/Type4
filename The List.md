@@ -94,6 +94,20 @@
 - [Moonlight Bargain]
 - [Plague Boiler]
 - [Leyline of Singularity]
+- [Simic Sky Swallower]
+- [Swift Silence]
+- [Voidslime]
+- [Azorius Guildmage]
+- [Prahv, Spires of Order]
+- [Commandeer]
+- [Dark Depths]
+- [Angel's Grace]
+- [Draining Whelk]
+- [Spell Burst]
+- [Teferi, Mage of Zhalfir]
+- [Trickbind]
+- [Vesuvan Shapeshifter]
+- [Wipe Away]
 - 
 
 
