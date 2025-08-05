@@ -319,9 +319,40 @@
 - [Vesuvan Shapeshifter] ➕Morph + copy shenanigans.
 - [Wipe Away] ➕Makes it in on the first pass due to `split second` 👀
 - [Demonic Collusion] ▶ Sick!
+- [Phthisis] - Was in the stack for a while. Other than being funny in trying to pronounce it, the effect at a sorcery was already awkward.
+- [Sudden Death] ➕First pass due to `split second` 👀
+- [Sudden Spoiling] ➕Even after first pass, this is cool.
+- [Bogardan Hellkite] ➕Flash, flying, big body, 5 damage can just hit face. Fairly unique combination of abilities and a soft spot from the Dragonstorm era.
+- [Ignite Memories] - If it were only an instant...
+- [Reiterate] ➕ Yes, again!
+- [Word of Seizing] ➕Instant include, you can do so many broken things with this.
+- [Krosan Grip] ➕When you absolutely need to get rid of that [Memnarch]
+- [Stonewood Invocation] - Tested out as too weak.
+- [Wurmcalling] - This is technically playable, but I will include no unbounded powers or toughnesses in the stack.
+- [Kaervek the Merciless] ➕This lowly 5/4 loves to kill people.
+- [Stuffy Doll] ➕This card makes it in first pass, but I fear its time has passed.
+## Planar Chaos (PLC)
+- A note, all the `suspend X` card were considered (and some were played, with and without X=d10 errata), but in the end there are better options that don't have to be worked around.
+- [Body Double] ➕Unique effect, clone in graveyard.
+- [Dismal Failure] ➕Counterspell with a semi-unique upside!
+- [Dash Hopes] ➕Any spell and 5 damage is enough for the first pass. 👁
+- [Treacherous Urge] ➕All that and it's an _instant_!
+- [Torchling] - As often, the red one sucks.
+## Future Sight (FUT)
+- [Pact of Negation] ➕Free! I force people to declare they are paying the cost, keeps people on their toes.
+- [Take Possession] ➕Mine. Now.
+- [Riddle of Lightning] - So close! If it only drew the card.
+- [Sprout Swarm] ➕This card gets out of hand quickly, as multiples of 5 saprolings let you cast this with convoke -- not counting as a spell per turn.
+- [Akroma's Memorial] ➕Make all your stuff _really_ scary.
+## Lorwyn (LRW)
+- Planeswalkers! These will find a place in the stack.
+- [Austere Command] - Extremely surpassed.
+- [Cryptic Command] ➕[Dismiss], eat your (still beating) heart out!
+- [Guile] ▶ This used to be a snap pick in draft for any blue mage, but in shared stack it always felt awk.
+- [Shapesharer] - If you understand the stack well, you can sometimes kill someone instantly with this card. But for newer players, this was 15-th pick.
+- [Colfenor's Plans] - Falls into the same bucket as [Recycle], I don't like cards that can result in a player being locked out of a game, no matter how rare the occurance.
 - 
 
 
-
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=147&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=158&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards

@@ -108,6 +108,23 @@
 - [Trickbind]
 - [Vesuvan Shapeshifter]
 - [Wipe Away]
+- [Sudden Death]
+- [Sudden Spoiling]
+- [Bogardan Hellkite]
+- [Reiterate]
+- [Word of Seizing]
+- [Krosan Grip]
+- [Kaervek the Merciless]
+- [Stuffy Doll]
+- [Body Double]
+- [Dismal Failure]
+- [Dash Hopes]
+- [Treacherous Urge]
+- [Pact of Negation]
+- [Take Possession]
+- [Sprout Swarm]
+- [Akroma's Memorial]
+- [Cryptic Command]
 - 
 
 
