@@ -125,6 +125,18 @@
 - [Sprout Swarm]
 - [Akroma's Memorial]
 - [Cryptic Command]
+- [Wild Ricochet]
+- [Thought Reflection]
+- [Memory Plunder]
+- [Vexing Shusher]
+- [Gather Specimens]
+- [Resounding Wave]
+- [Resounding Thunder]
+- [Brilliant Ultimatum]
+- [Cruel Ultimatum]
+- [Empyrial Archangel]
+- [Prince of Thralls]
+- [Punish Ignorance]
 - 
 
 

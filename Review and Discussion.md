@@ -351,8 +351,41 @@
 - [Guile] ▶ This used to be a snap pick in draft for any blue mage, but in shared stack it always felt awk.
 - [Shapesharer] - If you understand the stack well, you can sometimes kill someone instantly with this card. But for newer players, this was 15-th pick.
 - [Colfenor's Plans] - Falls into the same bucket as [Recycle], I don't like cards that can result in a player being locked out of a game, no matter how rare the occurance.
+- [Wild Ricochet] ➕=[Shunt] + [Twincast]
+- [Wydwen, the Biting Gale] - This is close to qualifying, would just have needed to be larger or have more cool abilities.
+- [Deathrender] - There are some cool things you can do with this, but it is hard to line up.
+- [Rings of Brighthearth] - If this wasn't limited to 'you'...
+## Happy Holidays (HHO)
+- [Gifts Given] ▶ Amazing in draft.
+## Morningtide (MOR)
+- [Knowledge Exploitation] ▶ This is terrifying.
+## Shadowmoor (SHM)
+- [Thought Reflection] ➕Doubling every future draw is solid.
+- [Puppeteer Clique] - Reanimate + haste is good, exile is less so, and the persist is nice. Will take another look at this. 👁
+- [Wound Reflection] - Almost makes it.
+- [Knollspine Invocation] - Too often this is kill target player.
+- [Woodfall Primus] - Not bad. Not good enough?
+- [Memory Plunder] ➕At instant speed, this is the best version if this effect.
+- [Vexing Shusher] ➕ Being able to control what gets countered is god-tier power.
+- [Fracturing Gust] -> [Dismantling Wave]
+## Eventide (EVE)
+- [Hallowed Burial] - This used to be in the stack as premier removal, but only hitting creatures limits it too much.
+- [Glen Elendra Archmage] - Two counterspells in one unimpressive body.
+- [Snakeform] - Probably the best (for T4) of these abilities, but why not just exile the creature?
+## Shards of Alara (ALA)
+- [Gather Specimens] ➕A truly unique effect that can be devastating.
+- [Resounding Wave] ➕Free! Bounce + draw.
+- [Resounding Scream] - I do not like discard, no matter how good.
+- [Resounding Thunder] ➕I love that this is _any_ target.
+- [Vicious Shadows] - Never considered before, this could be interesting, but feels like a kill player when wrath happens.
+- [Bant Charm] - I love charms and modal spells, but I have a strong feeling that there are much better ones coming. Still, this is one where all three abilities are very playable. 👁
+- [Brilliant Ultimatum] ➕2-3 free spells, yes please!
+- [Cruel Ultimatum] ➕This is quite targeted, but also quite powerful.
+- [Empyrial Archangel] ➕This creature is great at protecting from all chip damage and has decent stats.
+- [Esper Charm] - All three modes are playable, but this almost always is a draw 2. 👁
+- [Prince of Thralls] ➕I wish this was legendary. It's also sick, because it doesn't care how the perm got there.
+- [Punish Ignorance] ➕ [Absorb] and [Undermine]
 - 
 
-
 # 🔖Last Page 🔗
-https://scryfall.com/search?as=grid&order=name&page=158&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
+https://scryfall.com/search?as=grid&order=name&page=174&q=include%3Aextras+not%3Areprint+unique%3Acards+display%3Afull+order%3Areleased+direction%3Aasc+prefer%3Aoldest&unique=cards
